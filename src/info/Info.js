@@ -1,10 +1,11 @@
 import self from "../img/self.png"
-import Screenshot1 from "../img/mock1.png"
-import Screenshot2 from "../img/mock2.png"
-import Screenshot3 from "../img/mock3.png"
-import Screenshot4 from "../img/mock4.png"
-import Screenshot5 from "../img/mock5.png"
-import { Screenshot } from "@mui/icons-material"
+import Screenshot1 from "../img/Screenshot1.png"
+import Screenshot2 from "../img/Screenshot2.png"
+import Screenshot3 from "../img/Screenshot3.png"
+import Screenshot4 from "../img/Screenshot4.png"
+import Screenshot5 from "../img/Screenshot5.png"
+import Screenshot6 from "../img/Screenshot6.png"
+//import { Screenshot } from "@mui/icons-material"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -87,11 +88,13 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "This is Sam uttai. I am currently working with Kenstate Allied a Tech firm based in Kenya. I studied CompSci at Georgia USA, I have valuable experience in the Tech Industry",
+    bio: "This is Sam Muttai. I am currently working as a Software Engineer with a Tech firm based in Kenya. I have a Bachelors in Computer Science from Georgia USA, I have valuable experience in the Tech Industry",
     skills:
+    
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            FrontEnd: ['Javascript', 'Java Spring Boot', 'Node JS', 'Python','React JS', 'Next JS', 'github', 'bootstrap', 'html5', 'css3', 'figma',],
+            BackEnd: ['APIs', 'MySQL', 'FireBase','PostGres','Maria DB','Mongo DB'],
+            Internet_Security: ['Pen Testing', 'Defensive Sec', 'DevOps' ]
         }
     ,
     hobbies: [
@@ -123,31 +126,31 @@ export const info = {
             title: "React JS Project, Firebase",
             live: "https://kentours.netlify.app", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: Screenshot1
+            image: Screenshot2
         },
         {
             title: "Java Spring Boot",
             live: "https://spot.ampath.or.ke",
             source: "https://github.com",
-            image: Screenshot2
+            image: Screenshot3
         },
         {
             title: "Java Spring Boot, MySQL",
             live: "https://spot.ampath.or.ke/conference/register",
             source: "https://github.com",
-            image: Screenshot3
+            image: Screenshot4
         },
         {
             title: "React JS Redux",
             live: "https://autotrac.vercel.app",
             source: "https://github.com",
-            image: Screenshot4
+            image: Screenshot5
         },
         {
             title: "VPN Security Testing",
             live: "https://safaricon.co.ke",
             source: "https://safaricon.co.ke",
-            image: Screenshot5
+            image: Screenshot6
         }
     ]
 }
