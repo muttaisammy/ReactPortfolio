@@ -107,7 +107,7 @@ Otherwise, use [Emojipedia](https://emojipedia.org/) to find and copy-paste what
 
 For the 'socials' section, be sure to replace the links with your own social profile links.
 
-For the 'portfolio' section, update the titles to whatever you want. The `live` link should be a link to the **live demo** of your project. The `source` link should be a link to the **repository where the *code* of the project is hosted**,
+For the 'portfolio' section, update the titles to whatever you want. The `live` link should be a link to the **Website** of your project. The `source` link should be a link to the **repository where the *code* of the project is hosted**,
 such as GitHub.
 
 Note: If you have more than 5 projects, you will need to add more objects to the portfolio array. Just copy from the
