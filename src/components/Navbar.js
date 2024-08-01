@@ -15,7 +15,7 @@ const links = [
     },
     {
         name: 'About Me',
-        to: 'about',
+        to: '',
         active: 'about'
     },
     {
