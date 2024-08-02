@@ -117,37 +117,37 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
 
         {
-            title: "React JS Project, BootStrap",
+            title: "React JS, BootStrap",
             live: "https://kenstates.netlify.app", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com", // this should be a link to the **repository** of the project, where the code is hosted.
             image: Screenshot1
         },
         {
-            title: "React JS Project, Firebase",
+            title: "React JS, Firebase",
             live: "https://kentours.netlify.app", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com", // this should be a link to the **repository** of the project, where the code is hosted.
             image: Screenshot2
         },
         {
-            title: "Java Spring Boot",
+            title: "Java Spring Boot, MySQL",
             live: "https://spot.ampath.or.ke",
             source: "https://github.com",
             image: Screenshot3
         },
         {
-            title: "Java Spring Boot, MySQL",
+            title: "Java Spring Boot, MySQL, BootStrap",
             live: "https://spot.ampath.or.ke/conference/register",
             source: "https://github.com",
             image: Screenshot4
         },
         {
-            title: "React JS Redux",
+            title: "Next JS, Redux",
             live: "https://autotrac.vercel.app",
             source: "https://github.com",
             image: Screenshot5
         },
         {
-            title: "VPN Security Testing",
+            title: "VPN Security Testing, API Testing",
             live: "https://safaricon.co.ke",
             source: "https://safaricon.co.ke",
             image: Screenshot6
