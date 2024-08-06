@@ -5,12 +5,12 @@ import Screenshot3 from "../img/Screenshot3.png"
 import Screenshot4 from "../img/Screenshot4.png"
 import Screenshot5 from "../img/Screenshot5.png"
 import Screenshot6 from "../img/Screenshot6.png"
-//import { Screenshot } from "@mui/icons-material"
+
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
 
-export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
+export let colors = ["rgb(255, 151, 71)", "rgb(255, 151, 158)"];
 /*
 I highly recommend using a gradient generator like https://gradientgenerator.paytonpierce.dev/ to generate a pair of colors that you like.
 These colors will be used to style your name on the homepage, the background of your picture, and some other accents throughout
@@ -31,15 +31,16 @@ of what each of the values mean.
 export const info = {
     firstName: "Sam",
     lastName: "Muttai",
-    initials: "MS", // the example uses first and last, but feel free to use three or more if you like.
+    initials: "Resume", // the example uses first and last, but feel free to use three or more if you like.
     position: "Full Stack Developer & Cyber Security Professional",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
+        
         {
             emoji: '☕',
-            text: 'Passion to Code'
+            text: 'Passion to Code, Check out my portfolio'
         },
         {
             emoji: '🌎',
@@ -51,7 +52,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "kenstatellc@gmail.com"
+            text: "muttaisammy@gmail.com"
         },
         {
             emoji: "📧",
